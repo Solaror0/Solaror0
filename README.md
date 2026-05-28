@@ -12,7 +12,7 @@
 ## Tech Stack and Tools!
 
 **Tech Stack**⚡  <br>
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge&logo=&logoColor=blue)
 ![Py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
