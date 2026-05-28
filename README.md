@@ -28,7 +28,8 @@
 
 **Tools** 🛠️ <br>
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=amd&logoColor=blue)
+![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=amd&logoColor=blue)
+![Verilator](https://img.shields.io/badge/Verilator-007ACC?style=for-the-badge&logo=amd&logoColor=blue)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
